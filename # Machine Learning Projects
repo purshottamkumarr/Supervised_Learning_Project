@@ -1,0 +1,53 @@
+# Machine Learning Projects
+
+A collection of Machine Learning projects covering Regression, Classification,
+Unsupervised Learning, Fraud Detection, and Natural Language Processing.
+
+## 📂 Projects
+
+### 📈 Regression
+- Big Mart Sales Prediction
+- Boston Housing Price Prediction
+- Car Price Prediction
+- Medical Insurance Prediction
+
+### 🤖 Classification
+- Diabetes Prediction
+- Heart Disease Prediction
+- Loan Prediction
+- Parkinson's Disease Prediction
+- Sonar Rock Classification
+- Titanic Survival Prediction
+- Wine Quality Classification
+
+### 🛡️ Fraud Detection
+- Credit Card Fraud Detection
+
+### 💬 Natural Language Processing
+- Spam Mail Classification
+
+### 🔍 Unsupervised Learning
+- Mall Customer Clustering
+
+### 📌 Other Projects
+- Movie Recommendation
+
+## 🛠️ Technologies & Tools
+
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Jupyter Notebook
+
+## 🎯 Purpose
+
+This repository contains hands-on Machine Learning projects
+created to practice data preprocessing, exploratory data analysis,
+feature engineering, model building, and model evaluation.
+
+## 👨‍💻 Author
+
+**Purshottam Kumar Raj**
